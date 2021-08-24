@@ -1,0 +1,19 @@
+img{
+  height: 202px;
+}
+
+  h1, h3 {
+    color:	#363636;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: solid;
+    border-color: grey;
+    border-width: 1px;
+  }
+
+.main-text {
+   line-height: 1.5;
+   margin: 3em;
+}
